@@ -1,6 +1,5 @@
 {
-  "homepage": "https://sameer-2006.github.io/Projects-AnGd1",
-
+  "homepage": "https://sameer-2006.github.io/Allachieve",
   "name": "website",
   "private": true,
   "version": "0.0.0",
@@ -10,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fontsource/anton": "^5.2.7",

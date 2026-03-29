@@ -1,5 +1,5 @@
 
-import Projct from "./components/projects.jsx";
+import Projct from "./components/achivements.jsx";
 
 const App = () => {
   return (
